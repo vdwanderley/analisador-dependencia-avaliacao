@@ -1,0 +1,972 @@
+Índice sentença 0
+--------------------------------------------------
+Arraiá de a Xuxa  |||  foi a décima turnê ||| de a apresentadora e cantora Xuxa 
+Arraiá de a Xuxa  |||  foi a décima turnê ||| de a apresentadora 
+Arraiá de a Xuxa  |||  foi a décima turnê ||| de cantora Xuxa 
+cantora  |||  é ||| Xuxa 
+o álbum  |||  é ||| Arraiá de a Xuxa 
+Arraiá de a Xuxa  |||  foi ||| a décima turnê 
+Arraiá de a Xuxa  |||  foi ||| de a apresentadora e cantora Xuxa 
+--------------------------------------------------
+Índice sentença 1
+--------------------------------------------------
+O World Fantasy Award  |||  é ||| entregue durante o evento 
+--------------------------------------------------
+Índice sentença 2
+--------------------------------------------------
+o Golfo de a Guiné  |||  é ||| ( Oceano Atlântico 
+--------------------------------------------------
+Índice sentença 3
+--------------------------------------------------
+Marcondes  |||  conquista ||| logo a afeição de Pedroca 
+Marcondes  |||  conquista ||| a afeição de Pedroca De início 
+--------------------------------------------------
+Índice sentença 4
+--------------------------------------------------
+Twin Shadow  |||  é o nome ||| artístico de músico americano 
+Twin Shadow  |||  é o nome ||| artístico de músico americano George Lewis Jr 
+Twin Shadow  |||  é o nome ||| de músico americano 
+Twin Shadow  |||  é o nome ||| George Lewis Jr 
+Twin Shadow  |||  cresceu ||| en o Brooklyn 
+Twin Shadow  |||  cresceu ||| en o Brooklyn em Nova Iorque , Estados Unidos 
+Twin Shadow  |||  cresceu ||| em Nova Iorque , Estados Unidos 
+o nome artístico de músico americano  |||  é ||| George Lewis Jr 
+Nova Iorque  |||  é ||| Estados Unidos 
+Twin Shadow  |||  é ||| o nome artístico 
+--------------------------------------------------
+Índice sentença 5
+--------------------------------------------------
+Krusty  |||  tenta ||| recuperar o violino de a residência de Fat Tony 
+Krusty  |||  tenta ||| recuperar o violino de a residência de Fat Tony com a ajuda de Homer 
+Krusty  |||  tenta ||| recuperar o violino de a residência de Fat Tony com a ajuda de Homer Para ganhar a confiança de Sophie de volta 
+--------------------------------------------------
+Índice sentença 6
+--------------------------------------------------
+Kitty Gordon ( 22 de abril de 1878 – 26 de maio de 1974  |||  foi uma atriz ||| britânica de cinema e teatro 
+Kitty Gordon ( 22 de abril de 1878 – 26 de maio de 1974  |||  foi uma atriz ||| de cinema e teatro 
+Kitty Gordon ( 22 de abril de 1878 – 26 de maio de 1974  |||  foi uma atriz ||| britânica de cinema 
+Kitty Gordon ( 22 de abril de 1878 – 26 de maio de 1974  |||  foi uma atriz ||| britânica de teatro 
+Kitty Gordon ( 22 de abril de 1878 – 26 de maio de 1974  |||  foi ||| uma atriz britânica 
+--------------------------------------------------
+Índice sentença 7
+--------------------------------------------------
+Sua dispersão  |||  é ||| uniforme 
+Sua dispersão  |||  é ||| uniforme , mas em baixa densidade , tanto em formações primárias quanto secundárias 
+Sua dispersão  |||  é ||| uniforme , mas em baixa densidade , tanto em formações primárias 
+Sua dispersão  |||  é ||| uniforme , mas em baixa densidade , tanto em formações secundárias 
+--------------------------------------------------
+Índice sentença 8
+--------------------------------------------------
+Horntown  |||  é ||| uma cidade 
+--------------------------------------------------
+Índice sentença 9
+--------------------------------------------------
+O Presidente de a África de o Sul  |||  é o chefe ||| de Estado e de governo de a nação sul - africana 
+O Presidente de a África de o Sul  |||  é o chefe ||| de Estado 
+O Presidente de a África de o Sul  |||  é o chefe ||| de governo de a nação sul - africana 
+O Presidente de a África de o Sul  |||  é ||| o chefe 
+O Presidente de a África de o Sul  |||  é ||| de Estado e de governo de a nação sul - africana 
+--------------------------------------------------
+Índice sentença 10
+--------------------------------------------------
+o programa  |||  é ||| Oko 
+--------------------------------------------------
+Índice sentença 11
+--------------------------------------------------
+uma nova instrumentação  |||  quando já se tinha ||| a a disposição 
+uma nova instrumentação  |||  quando já se tinha ||| en a década de 1950 
+o cientista norte - americano  |||  é ||| Lloyd Berkner 
+--------------------------------------------------
+Índice sentença 12
+--------------------------------------------------
+As filmagens  |||  começaram ||| em 11 de setembro de 2011 
+--------------------------------------------------
+Índice sentença 13
+--------------------------------------------------
+Dalmau IV de Rocabertí Visconde de Rocabertí  |||  foi ||| e Duque 
+--------------------------------------------------
+Índice sentença 14
+--------------------------------------------------
+Tal percepção  |||  é ||| visível por quem transita por a principal via de a cidade de Canindé de São Francisco 
+Tal percepção  |||  é ||| visível por quem transita por a principal via de a cidade de Canindé de São Francisco e condiz com a impressão que os visitantes de os mais diversos estados brasileiros têm a o visitar os cânions de o Rio São Francisco 
+quem  |||  transita ||| por a principal via de a cidade de Canindé de São Francisco 
+os visitantes de os mais diversos estados brasileiros  |||  têm ||| a o visitar os cânions de o Rio São Francisco 
+a limpeza e organização  |||  quando notam ||| presente en a cultura de o povo local 
+quem  |||  condiz ||| com a impressão que os visitantes de os mais diversos estados brasileiros têm a o visitar os cânions de o Rio São Francisco 
+o Rio  |||  é ||| São Francisco 
+Tal percepção  |||  é ||| visível por quem transita por a principal via de a cidade de Canindé de São Francisco e condiz com a impressão que os visitantes de os mais diversos estados brasileiros têm a o visitar os cânions de o Rio São Francisco 
+|
+v
+a limpeza e organização  |||  quando notam ||| presente en a cultura de o povo local 
+os visitantes de os mais diversos estados brasileiros  |||  têm ||| a o visitar os cânions de o Rio São Francisco 
+|
+v
+a limpeza e organização  |||  quando notam ||| presente en a cultura de o povo local 
+os visitantes de os mais diversos estados brasileiros  |||  têm ||| 
+|
+v
+a limpeza e organização  |||  quando notam ||| presente en a cultura de o povo local 
+quem  |||  condiz ||| com a impressão que os visitantes de os mais diversos estados brasileiros têm a o visitar os cânions de o Rio São Francisco 
+|
+v
+a limpeza e organização  |||  quando notam ||| presente en a cultura de o povo local 
+quem  |||  condiz ||| 
+|
+v
+a limpeza e organização  |||  quando notam ||| presente en a cultura de o povo local 
+--------------------------------------------------
+Índice sentença 15
+--------------------------------------------------
+O CSKA  |||  venceu ||| 5 Campeonatos Russos , sete Campeonatos Soviéticos 
+O CSKA  |||  venceu ||| 5 Campeonatos Russos , sete Campeonatos Soviéticos , sete Copas de a Rússia e cinco Copas de a União Soviética 
+O CSKA  |||  venceu ||| 5 Campeonatos Russos 
+O CSKA  |||  venceu ||| Russos sete Campeonatos Soviéticos 
+O CSKA  |||  venceu ||| Russos sete Copas de a Rússia 
+O CSKA  |||  venceu ||| Russos cinco Copas de a União Soviética 
+--------------------------------------------------
+Índice sentença 16
+--------------------------------------------------
+um homem  |||  almejava ||| o poder 
+um homem  |||  almejava ||| o poder para viajar através de o tempo 
+--------------------------------------------------
+Índice sentença 17
+--------------------------------------------------
+a canção  |||  foi terceiro single ||| de o álbum Everywhere 
+o álbum  |||  é ||| Everywhere 
+a canção  |||  foi ||| terceiro single de o álbum Everywhere 
+--------------------------------------------------
+Índice sentença 18
+--------------------------------------------------
+--------------------------------------------------
+Índice sentença 19
+--------------------------------------------------
+A única esperança para os sobreviventes  |||  é Kit Latura ||| ( Sylvester Stallone 
+A única esperança para os sobreviventes  |||  é Kit Latura ||| ( Sylvester Stallone , um ex - bombeiro que precisará entrar en o túnel 
+A única esperança para os sobreviventes  |||  é Kit Latura ||| um ex - bombeiro que precisará entrar en o túnel 
+o ar  |||  se esgote ||| ou que o próprio túnel desabe 
+um ex - bombeiro  |||  precisará ||| entrar en o túnel 
+Kit Latura  |||  é ||| ( Sylvester Stallone 
+A única esperança para os sobreviventes  |||  é ||| Kit Latura ( Sylvester Stallone 
+A única esperança para os sobreviventes  |||  é ||| um ex - bombeiro 
+A única esperança para os sobreviventes  |||  é Kit Latura ||| ( Sylvester Stallone , um ex - bombeiro que precisará entrar en o túnel e resgatar as vítimas antes que 
+|
+v
+o ar  |||  se esgote ||| ou que o próprio túnel desabe 
+A única esperança para os sobreviventes  |||  é Kit Latura ||| um ex - bombeiro que precisará entrar e resgatar as vítimas antes que 
+|
+v
+o ar  |||  se esgote ||| ou que o próprio túnel desabe 
+um ex - bombeiro  |||  precisará ||| entrar en o túnel e resgatar as vítimas antes que 
+|
+v
+o ar  |||  se esgote ||| ou que o próprio túnel desabe 
+--------------------------------------------------
+Índice sentença 20
+--------------------------------------------------
+Sua população  |||  era ||| segundo dados de o IBGE 
+3 528 habitantes e em 2007 de 3 570 habitantes  |||  era ||| segundo dados de o IBGE 
+--------------------------------------------------
+Índice sentença 21
+--------------------------------------------------
+O diagrama seguinte  |||  representa ||| as localidades em um raio de 8 km 
+O diagrama seguinte  |||  representa ||| as localidades em um raio de 8 km a o redor de Muniz 
+--------------------------------------------------
+Índice sentença 22
+--------------------------------------------------
+Tiago  |||  foi o goleiro ||| com mais gols 
+Tiago  |||  foi o goleiro ||| com mais gols en o Brasil 
+Tiago  |||  foi o goleiro ||| Em 2007 
+Tiago  |||  foi o goleiro ||| en o Brasil 
+13  |||  foram ||| en o total 
+13  |||  foram ||| en o total , contra 10 de o rival e ídolo Rogério Ceni 
+13  |||  foram ||| contra 10 de o rival e ídolo Rogério Ceni 
+13  |||  foram ||| en o total , contra 10 de o rival 
+13  |||  foram ||| en o total , contra 10 de ídolo 
+9  |||  sendo ||| en a disputa de a Séria B de o Campeonato Brasileiro 
+Tiago  |||  foram ||| en o total 
+Tiago  |||  foram ||| en o total , contra 10 de o rival e ídolo Rogério Ceni 
+Tiago  |||  foram ||| contra 10 de o rival e ídolo Rogério Ceni 
+Tiago  |||  foram ||| en o total , contra 10 de o rival 
+Tiago  |||  foram ||| en o total , contra 10 de ídolo 
+o rival  |||  é ||| Rogério Ceni 
+Tiago  |||  foi ||| o goleiro Em 2007 
+--------------------------------------------------
+Índice sentença 23
+--------------------------------------------------
+O seu significado  |||  é ||| celeiro , despenseiro 
+O seu significado  |||  é ||| despenseiro 
+O seu significado  |||  é ||| celeiro 
+--------------------------------------------------
+Índice sentença 24
+--------------------------------------------------
+Naganuma  |||  é um asteróide ||| de a cintura principal 
+Naganuma  |||  é um asteróide ||| de a cintura principal , a 1,7205248 UA 
+Naganuma  |||  é um asteróide ||| a 1,7205248 UA 
+Naganuma  |||  é ||| um asteróide de a cintura principal 
+--------------------------------------------------
+Índice sentença 25
+--------------------------------------------------
+A galáxia  |||  foi descoberta ||| em 17 de Março de 1787 
+A galáxia  |||  foi descoberta ||| em 17 de Março de 1787 por William Herschel 
+A galáxia  |||  foi descoberta ||| por William Herschel 
+A galáxia  |||  é ||| NGC 3158 
+NGC 3158  |||  foi descoberta ||| em 17 de Março de 1787 
+NGC 3158  |||  foi descoberta ||| em 17 de Março de 1787 por William Herschel 
+NGC 3158  |||  foi descoberta ||| por William Herschel 
+--------------------------------------------------
+Índice sentença 26
+--------------------------------------------------
+a equipe  |||  realizará ||| a PRTida 
+a equipe  |||  realizará ||| a PRTida en a condição de mandante 
+a equipe  |||  realizará ||| a PRTida en a PRTida de a fase final 
+a equipe  |||  tiver ||| obtido a melhor campanha en a somatória de todas as fases anteriores 
+a equipe  |||  tiver ||| obtido a melhor campanha en a somatória de todas as fases anteriores , en o caso 
+a equipe  |||  tiver ||| obtido a melhor campanha en a somatória de todas as fases anteriores , en o caso o Internacional 
+--------------------------------------------------
+Índice sentença 27
+--------------------------------------------------
+Thomasomys laniger  |||  é uma espécie ||| de roedor 
+Thomasomys laniger  |||  é uma espécie ||| de roedor de a família Cricetidae 
+Thomasomys laniger  |||  é uma espécie ||| de a família Cricetidae 
+a família  |||  é ||| Cricetidae 
+Thomasomys laniger  |||  é ||| uma espécie de roedor 
+--------------------------------------------------
+Índice sentença 28
+--------------------------------------------------
+Sillis  |||  é um asteróide ||| de a cintura principal 
+Sillis  |||  é um asteróide ||| de a cintura principal , a 2,032963 UA 
+Sillis  |||  é um asteróide ||| a 2,032963 UA 
+Sillis  |||  é ||| um asteróide de a cintura principal 
+--------------------------------------------------
+Índice sentença 29
+--------------------------------------------------
+New Rochelle  |||  é ||| Nova Iorque 
+Nova Iorque  |||  é ||| EUA 
+a banda  |||  é ||| Guns N Roses 
+a banda  |||  é ||| Testament 
+o álbum  |||  é ||| The Ritual 
+--------------------------------------------------
+Índice sentença 30
+--------------------------------------------------
+Jerônimo de Cárdia  |||  foi um historiador ||| grego 
+Jerônimo de Cárdia  |||  foi ||| um historiador grego 
+--------------------------------------------------
+Índice sentença 31
+--------------------------------------------------
+Estes espíritos  |||  eram mais frequentemente descritos ||| como espectros de animais 
+Estes espíritos  |||  eram mais frequentemente descritos ||| como espectros de animais ou pessoas 
+Estes espíritos  |||  eram mais frequentemente descritos ||| como espectros de animais ou pessoas , os ritos de exorcismo geralmente eram compostos de ofertas respeitosas ou ofertas de sacrifício 
+Estes espíritos  |||  eram mais frequentemente descritos ||| como espectros ou pessoas 
+Estes espíritos  |||  eram mais frequentemente descritos ||| os ritos de exorcismo geralmente eram compostos de ofertas respeitosas ou ofertas de sacrifício 
+Estes espíritos  |||  eram mais frequentemente descritos ||| de animais como pessoas 
+Estes espíritos  |||  eram mais frequentemente descritos ||| de animais como pessoas , os ritos de exorcismo geralmente eram compostos respeitosas de ofertas de sacrifício 
+os ritos de exorcismo  |||  geralmente eram compostos ||| de ofertas respeitosas ou ofertas de sacrifício 
+os ritos de exorcismo  |||  geralmente eram compostos ||| de ofertas respeitosas 
+os ritos de exorcismo  |||  geralmente eram compostos ||| de animais como pessoas , os ritos de exorcismo geralmente eram compostos respeitosas de ofertas de sacrifício 
+--------------------------------------------------
+Índice sentença 32
+--------------------------------------------------
+Mohanpur Mohammadpur  |||  é uma vila ||| en o distrito de Hardwar 
+Mohanpur Mohammadpur  |||  é uma vila ||| en o distrito de Hardwar , en o estado indiano de Uttaranchal 
+Mohanpur Mohammadpur  |||  é uma vila ||| en o estado indiano de Uttaranchal 
+Mohanpur Mohammadpur  |||  é ||| uma vila en o distrito de Hardwar 
+--------------------------------------------------
+Índice sentença 33
+--------------------------------------------------
+uma espécie de orquídea , muito comum en o Brasil  |||  faz ||| PRTe de um grupo de espécies de pertencentes a o gênero Epidendrum 
+o gênero  |||  é ||| Epidendrum 
+--------------------------------------------------
+Índice sentença 34
+--------------------------------------------------
+A Koyamaki  |||  foi escolhida ||| como o kamon ( brasão 
+A Koyamaki  |||  foi escolhida ||| como o kamon ( brasão de o Príncipe Hisahito de Akishino 
+A Koyamaki  |||  foi escolhida ||| como o kamon ( brasão de o Príncipe Hisahito de Akishino , actualmente o terceiro en a sucessão de o Trono de o Crisântemo 
+A Koyamaki  |||  foi escolhida ||| como o kamon de o Príncipe Hisahito de Akishino 
+A Koyamaki  |||  foi escolhida ||| actualmente o terceiro en a sucessão de o Trono de o Crisântemo 
+--------------------------------------------------
+Índice sentença 35
+--------------------------------------------------
+O realismo de o show  |||  acabou ||| se tornar uma barreira para a audiência 
+O realismo de o show  |||  acabou ||| se tornar uma barreira para a audiência instituto Nielsen Media Research , a série tinha índices baixíssimos de audiência 
+O realismo de o show  |||  acabou ||| se tornar uma barreira para a audiência instituto Nielsen Media Research , a série tinha índices baixíssimos de audiência e foi cancelada com menos de 4 meses 
+O realismo de o show  |||  acabou ||| se tornar uma barreira para a audiência instituto Nielsen Media Research , a série tinha índices baixíssimos de audiência e foi cancelada com menos de 4 meses en o ar 
+O realismo de o show  |||  acabou ||| instituto Nielsen Media Research , a série tinha índices baixíssimos de audiência 
+O realismo de o show  |||  acabou ||| instituto Nielsen Media Research , a série tinha e foi cancelada com menos de 4 meses 
+O realismo de o show  |||  acabou ||| instituto Nielsen Media Research , a série tinha e foi cancelada en o ar 
+a série  |||  tinha ||| índices baixíssimos de audiência 
+a série  |||  tinha ||| índices baixíssimos de audiência , segundo o instituto Nielsen Media Research 
+a série  |||  foi cancelada ||| com menos de 4 meses 
+a série  |||  foi cancelada ||| com menos de 4 meses en o ar 
+a série  |||  foi cancelada ||| en o ar 
+segundo o instituto  |||  é ||| Nielsen Media Research 
+--------------------------------------------------
+Índice sentença 36
+--------------------------------------------------
+O clima  |||  é ||| mais quente 
+O clima  |||  é ||| mais quente que o de Auckland 
+O clima  |||  é ||| mais quente que o de Auckland , com menos humidade e chuva e mais horas de luz 
+O clima  |||  é ||| mais quente , com menos humidade e chuva e mais horas de luz 
+O clima  |||  é ||| mais quente que o de Auckland , com menos humidade 
+O clima  |||  é ||| mais quente que o de Auckland chuva 
+O clima  |||  é ||| mais quente que o de Auckland mais horas de luz 
+--------------------------------------------------
+Índice sentença 37
+--------------------------------------------------
+Põlde  |||  é localizado ||| en o município de Abja vald e Viljandimaa 
+Põlde  |||  é localizado ||| en o município de Abja vald e Viljandimaa , en o sul de o país 
+Põlde  |||  é localizado ||| en o município de Abja vald e Viljandimaa , en o sul de o país , e 150 km a o sul de a capital Tallinn 
+Põlde  |||  é localizado ||| en o sul de o país 
+Põlde  |||  é localizado ||| e 150 km a o sul de a capital Tallinn 
+Põlde  |||  é localizado ||| en o município de Abja vald 
+Põlde  |||  é localizado ||| en o município vald de Viljandimaa 
+a capital  |||  é ||| Tallinn 
+--------------------------------------------------
+Índice sentença 38
+--------------------------------------------------
+Pierre  |||  começou a jogar ||| Futsal 
+Pierre  |||  começou a jogar ||| Futsal em 1985 
+Pierre  |||  começou a jogar ||| Futsal em 1985 en as escolinhas de o clube Álvares Cabral 
+Pierre  |||  começou a jogar ||| Futsal em 1985 en as escolinhas de o clube Álvares Cabral em Vitória , ES 
+Pierre  |||  começou a jogar ||| Futsal en as escolinhas de o clube Álvares Cabral 
+Pierre  |||  começou a jogar ||| Futsal em Vitória , ES 
+o clube  |||  é ||| Álvares Cabral 
+Vitória  |||  é ||| ES 
+--------------------------------------------------
+Índice sentença 39
+--------------------------------------------------
+Este asteróide  |||  foi descoberto ||| em 27 de Abril de 1998 
+Este asteróide  |||  foi descoberto ||| em 27 de Abril de 1998 por Paul Comba 
+Este asteróide  |||  foi descoberto ||| por Paul Comba 
+--------------------------------------------------
+Índice sentença 40
+--------------------------------------------------
+Sua capital  |||  é a cidade ||| de Tarata 
+Sua capital  |||  é ||| a cidade de Tarata 
+--------------------------------------------------
+Índice sentença 41
+--------------------------------------------------
+Corani  |||  é um distrito ||| de o Peru 
+Corani  |||  é um distrito ||| de o Peru , dePRTamento de Puno 
+Corani  |||  é um distrito ||| dePRTamento de Puno 
+Corani  |||  é ||| um distrito de o Peru 
+--------------------------------------------------
+Índice sentença 42
+--------------------------------------------------
+Santa Rosa  |||  é ||| Município de Chiquimulilla 
+--------------------------------------------------
+Índice sentença 43
+--------------------------------------------------
+Esta lista  |||  reúne ||| os recordes olímpicos de o tiro esportivo 
+--------------------------------------------------
+Índice sentença 44
+--------------------------------------------------
+O beato  |||  é ||| muito famoso 
+O beato  |||  é ||| muito famoso por todo o Brasil 
+O beato  |||  é ||| Padre Eustáquio 
+Padre Eustáquio  |||  é ||| muito famoso 
+Padre Eustáquio  |||  é ||| muito famoso por todo o Brasil 
+--------------------------------------------------
+Índice sentença 45
+--------------------------------------------------
+--------------------------------------------------
+Índice sentença 46
+--------------------------------------------------
+Salleri  |||  é uma cidade ||| de o Nepal 
+Salleri  |||  é ||| uma cidade de o Nepal 
+--------------------------------------------------
+Índice sentença 47
+--------------------------------------------------
+--------------------------------------------------
+Índice sentença 48
+--------------------------------------------------
+Similares espíritos divinos  |||  também são encontrados ||| en as tradições de a África Central e África Ocidental 
+Similares espíritos divinos  |||  também são encontrados ||| en as tradições de a África Central e África Ocidental de onde eles derivam - o 
+Similares espíritos divinos  |||  também são encontrados ||| en as tradições de a África Central e África Ocidental de onde eles derivam - o Orixá 
+Similares espíritos divinos  |||  também são encontrados ||| en as tradições de a África Central e África Ocidental de onde eles derivam - o Orixá de a cultura Yoruba , o nkisi de os tradições Bantu ( Congo , e o vodou de o Dahomey ( Benin , Togo , sul de Ghana , e Burkina Faso 
+Similares espíritos divinos  |||  também são encontrados ||| de onde eles derivam - o 
+Similares espíritos divinos  |||  também são encontrados ||| de onde eles derivam - Orixá 
+Similares espíritos divinos  |||  também são encontrados ||| de onde eles derivam - de a cultura Yoruba , o nkisi de os tradições Bantu ( Congo , e o vodou de o Dahomey ( Benin , Togo , sul de Ghana , e Burkina Faso 
+Similares espíritos divinos  |||  também são encontrados ||| en as tradições de a África Central 
+Similares espíritos divinos  |||  também são encontrados ||| en as tradições de a África África Ocidental 
+Similares espíritos divinos  |||  também são encontrados ||| en as tradições de a África África Ocidental de onde eles derivam - o Orixá de a cultura o nkisi de os tradições Bantu 
+Similares espíritos divinos  |||  também são encontrados ||| en as tradições de a África África Ocidental de onde eles derivam - o Orixá de a cultura Togo , sul de Ghana 
+Similares espíritos divinos  |||  também são encontrados ||| en as tradições de a África África Ocidental de onde eles derivam - o Orixá de a cultura Burkina Faso 
+eles  |||  derivam ||| o 
+eles  |||  derivam ||| o Orixá 
+eles  |||  derivam ||| o Orixá de a cultura Yoruba , o nkisi de os tradições Bantu ( Congo , e o vodou de o Dahomey ( Benin , Togo , sul de Ghana , e Burkina Faso 
+eles  |||  derivam ||| o onde 
+eles  |||  derivam ||| o de a cultura Yoruba , o nkisi de os tradições Bantu ( Congo , e o vodou de o Dahomey ( Benin , Togo , sul de Ghana , e Burkina Faso 
+eles  |||  derivam ||| o Orixá de a cultura Yoruba 
+eles  |||  derivam ||| o Orixá de a cultura Yoruba onde 
+eles  |||  derivam ||| en as tradições de a África África Ocidental de onde eles derivam - o Orixá de a cultura o nkisi de os tradições Bantu 
+eles  |||  derivam ||| en as tradições de a África África Ocidental de onde eles derivam - o Orixá de a cultura o nkisi de os tradições Bantu onde 
+eles  |||  derivam ||| en as tradições de a África África Ocidental de onde eles derivam - o Orixá de a cultura Togo , sul de Ghana 
+eles  |||  derivam ||| en as tradições de a África África Ocidental de onde eles derivam - o Orixá de a cultura Togo , sul de Ghana onde 
+eles  |||  derivam ||| en as tradições de a África África Ocidental de onde eles derivam - o Orixá de a cultura Burkina Faso 
+eles  |||  derivam ||| en as tradições de a África África Ocidental de onde eles derivam - o Orixá de a cultura Burkina Faso onde 
+os tradições  |||  é ||| Bantu 
+os tradições  |||  é ||| ( Congo 
+o Dahomey  |||  é ||| ( Benin 
+--------------------------------------------------
+Índice sentença 49
+--------------------------------------------------
+a PRTe  |||  é ||| Sudoeste de o lago de Como 
+a PRTe  |||  encontra ||| se Bellagio 
+--------------------------------------------------
+Índice sentença 50
+--------------------------------------------------
+o levantador  |||  iniciou ||| seu treino 
+o levantador  |||  iniciou ||| seu treino en a seleção 
+o levantador  |||  iniciou ||| seu treino en a seleção sob o olhar atento de o preparador físico Júlio Noronha 
+o levantador  |||  iniciou ||| seu treino integrado Desde ontem 
+o levantador  |||  iniciou ||| seu treino integrado Desde ontem a o elenco 
+o levantador  |||  iniciou ||| seu treino sob o olhar atento de o preparador físico Júlio Noronha 
+o levantador  |||  é ||| Maurício 
+o preparador físico  |||  é ||| Júlio Noronha 
+Maurício  |||  iniciou ||| seu treino 
+Maurício  |||  iniciou ||| seu treino en a seleção 
+Maurício  |||  iniciou ||| seu treino en a seleção sob o olhar atento de o preparador físico Júlio Noronha 
+Maurício  |||  iniciou ||| seu treino integrado Desde ontem 
+Maurício  |||  iniciou ||| seu treino integrado Desde ontem a o elenco 
+Maurício  |||  iniciou ||| seu treino sob o olhar atento de o preparador físico Júlio Noronha 
+--------------------------------------------------
+Índice sentença 51
+--------------------------------------------------
+A falta de tempo  |||  também impede ||| Camila 
+A falta de tempo  |||  também impede ||| Camila de ir mais a o cinema 
+A falta de tempo  |||  também impede ||| Camila de ir mais a o cinema , a o teatro e a shows 
+A falta de tempo  |||  também impede ||| Camila , a o teatro e a shows 
+A falta de tempo  |||  também impede ||| Camila de ir mais a o cinema , a o teatro 
+A falta de tempo  |||  também impede ||| Camila de ir mais a o cinema a shows 
+--------------------------------------------------
+Índice sentença 52
+--------------------------------------------------
+--------------------------------------------------
+Índice sentença 53
+--------------------------------------------------
+O grau de adesão e respeito a essas normas  |||  está ||| ligado a os atributos morais de os PRTicipantes 
+--------------------------------------------------
+Índice sentença 54
+--------------------------------------------------
+o bar  |||  será deslocado ||| para o pátio de o fundo 
+o bar  |||  será deslocado ||| para o pátio de o fundo , com direito a performance de o deejay Bid , mais Bartolo e Hori 
+o bar  |||  será deslocado ||| com direito a performance de o deejay Bid , mais Bartolo e Hori 
+o bar  |||  será deslocado ||| para o pátio de o fundo , com direito a performance de o deejay Bid 
+o bar  |||  será deslocado ||| para o pátio de o fundo , com direito a performance de o deejay mais Bartolo 
+o bar  |||  será deslocado ||| para o pátio de o fundo , com direito a performance de o deejay Hori 
+--------------------------------------------------
+Índice sentença 55
+--------------------------------------------------
+--------------------------------------------------
+Índice sentença 56
+--------------------------------------------------
+os Zamboni , os Tomasi , os Fitarelli  |||  chegavam ||| com suas tradições 
+os Zamboni , os Tomasi , os Fitarelli  |||  chegavam ||| com suas tradições e , é claro 
+os Zamboni , os Tomasi , os Fitarelli  |||  chegavam ||| com suas tradições e , é claro , com cepas de videiras 
+os Zamboni , os Tomasi , os Fitarelli  |||  chegavam ||| a os poucos 
+os Zamboni , os Tomasi , os Fitarelli  |||  chegavam ||| e , é claro 
+os Zamboni , os Tomasi , os Fitarelli  |||  chegavam ||| e , é , com cepas de videiras 
+--------------------------------------------------
+Índice sentença 57
+--------------------------------------------------
+O IPMF  |||  foi criado ||| para vigorar somente até o próximo dia 31 
+--------------------------------------------------
+Índice sentença 58
+--------------------------------------------------
+mesmo en a Organização por a Libertação de a Palestina  |||  é ||| ( OLP 
+--------------------------------------------------
+Índice sentença 59
+--------------------------------------------------
+Os 50 contribuintes mais ricos de o país  |||  declararam ||| a a Receita Federal 
+Os 50 contribuintes mais ricos de o país  |||  declararam ||| a a Receita Federal en o ano passado 
+Os 50 contribuintes mais ricos de o país  |||  declararam ||| a a Receita Federal en o ano passado um patrimônio de US $ 11,7 bilhões 
+Os 50 contribuintes mais ricos de o país  |||  declararam ||| a a Receita Federal en o ano passado um patrimônio de US $ 11,7 bilhões , mas só recolheram US $ 6,2 milhões 
+Os 50 contribuintes mais ricos de o país  |||  declararam ||| a a Receita Federal en o ano passado um patrimônio de US $ 11,7 bilhões , mas só recolheram US $ 6,2 milhões de Imposto de Renda 
+Os 50 contribuintes mais ricos de o país  |||  declararam ||| a a Receita Federal en o ano passado um patrimônio de US $ 11,7 bilhões , mas só recolheram US $ 6,2 milhões de Imposto de Renda en o exercício de 1992 
+Os 50 contribuintes mais ricos de o país  |||  declararam ||| a a Receita Federal um patrimônio de US $ 11,7 bilhões 
+Os 50 contribuintes mais ricos de o país  |||  declararam ||| a a Receita Federal , mas só recolheram US $ 6,2 milhões 
+Os 50 contribuintes mais ricos de o país  |||  declararam ||| a a Receita Federal de Imposto de Renda 
+Os 50 contribuintes mais ricos de o país  |||  declararam ||| a a Receita en o exercício de 1992 
+--------------------------------------------------
+Índice sentença 60
+--------------------------------------------------
+a violência  |||  hoje , acontece ||| fora de os estádios 
+a violência  |||  hoje , acontece ||| fora de os estádios , en as torcidas 
+a violência  |||  hoje , acontece ||| fora de os estádios , en as torcidas e , também , dentro de as quatro linhas , entre jogadores , técnicos , juízes etc 
+a violência  |||  hoje , acontece ||| en as torcidas 
+a violência  |||  hoje , acontece ||| e , também , dentro de as quatro linhas , entre jogadores , técnicos , juízes etc 
+a violência  |||  hoje , acontece ||| fora de os estádios , en as torcidas e , também , dentro de as quatro linhas , entre jogadores 
+a violência  |||  hoje , acontece ||| fora de os estádios , en as torcidas e , também , dentro de as quatro linhas técnicos 
+a violência  |||  hoje , acontece ||| fora de os estádios , en as torcidas e , também , dentro de as quatro linhas juízes 
+a violência  |||  hoje , acontece ||| fora de os estádios , en as torcidas e , também , dentro de as quatro linhas etc 
+--------------------------------------------------
+Índice sentença 61
+--------------------------------------------------
+--------------------------------------------------
+Índice sentença 62
+--------------------------------------------------
+Dener  |||  morreu ||| en o dia 19 de abril 
+Dener  |||  morreu ||| en o dia 19 de abril em um acidente de carro 
+Dener  |||  morreu ||| en o dia 19 de abril em um acidente de carro , en o Rio 
+Dener  |||  morreu ||| em um acidente de carro 
+Dener  |||  morreu ||| en o Rio 
+--------------------------------------------------
+Índice sentença 63
+--------------------------------------------------
+as fériasa seleção  |||  vai aproveitar ||| o intervalo 
+as fériasa seleção  |||  vai aproveitar ||| o intervalo até a fase final de a Liga 
+as fériasa seleção  |||  vai aproveitar ||| o intervalo até a fase final de a Liga para corrigir as falhas 
+as fériasa seleção  |||  vai aproveitar ||| o intervalo até a fase final de a Liga para corrigir as falhas , entre eles o saque e o passe 
+as fériasa seleção  |||  vai aproveitar ||| o intervalo Segundo o técnico Zé Roberto 
+as fériasa seleção  |||  vai aproveitar ||| o intervalo para corrigir as falhas 
+as fériasa seleção  |||  vai aproveitar ||| o intervalo , entre eles o saque e o passe 
+as fériasa seleção  |||  vai aproveitar ||| o intervalo até a fase final de a Liga para corrigir as falhas , entre eles o saque 
+as fériasa seleção  |||  vai aproveitar ||| o intervalo até a fase final de a Liga para corrigir as falhas , entre eles o saque Segundo o técnico Zé Roberto 
+as fériasa seleção  |||  vai aproveitar ||| o intervalo até a fase final de a Liga para corrigir as falhas o passe 
+as fériasa seleção  |||  vai aproveitar ||| o intervalo até a fase final de a Liga para corrigir as falhas o passe Segundo o técnico Zé Roberto 
+o técnico  |||  é ||| Zé Roberto 
+--------------------------------------------------
+Índice sentença 64
+--------------------------------------------------
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil 
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes 
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo 
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste 
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de dezembro e janeiro 
+a prefeitura  |||  ainda não pagou ||| os US $ en o bairro de a Penha ( zona leste 
+a prefeitura  |||  ainda não pagou ||| os US $ en o bairro en os meses de dezembro e janeiro 
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de dezembro 
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de janeiro 
+O diretor presidente de a Splice  |||  é ||| Antonio Beldi 
+O diretor presidente de a Splice  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil 
+O diretor presidente de a Splice  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes 
+O diretor presidente de a Splice  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo 
+O diretor presidente de a Splice  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste 
+O diretor presidente de a Splice  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de dezembro e janeiro 
+O diretor presidente de a Splice  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ en o bairro de a Penha ( zona leste 
+O diretor presidente de a Splice  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ en o bairro en os meses de dezembro e janeiro 
+O diretor presidente de a Splice  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de dezembro 
+O diretor presidente de a Splice  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de janeiro 
+O diretor presidente de a Splice  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil 
+O diretor presidente de a Splice  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes 
+O diretor presidente de a Splice  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo 
+O diretor presidente de a Splice  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste 
+O diretor presidente de a Splice  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de dezembro e janeiro 
+O diretor presidente de a Splice  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ en o bairro de a Penha ( zona leste 
+O diretor presidente de a Splice  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ en o bairro en os meses de dezembro e janeiro 
+O diretor presidente de a Splice  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de dezembro 
+O diretor presidente de a Splice  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de janeiro 
+Antonio Beldi  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil 
+Antonio Beldi  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes 
+Antonio Beldi  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo 
+Antonio Beldi  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste 
+Antonio Beldi  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de dezembro e janeiro 
+Antonio Beldi  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo 
+Antonio Beldi  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ en o bairro de a Penha ( zona leste 
+Antonio Beldi  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ en o bairro en os meses de dezembro e janeiro 
+Antonio Beldi  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de dezembro 
+Antonio Beldi  |||  afirmou ||| ontem que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de janeiro 
+Antonio Beldi  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil 
+Antonio Beldi  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes 
+Antonio Beldi  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo 
+Antonio Beldi  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste 
+Antonio Beldi  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de dezembro e janeiro 
+Antonio Beldi  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo 
+Antonio Beldi  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ en o bairro de a Penha ( zona leste 
+Antonio Beldi  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ en o bairro en os meses de dezembro e janeiro 
+Antonio Beldi  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de dezembro 
+Antonio Beldi  |||  afirmou ||| que 
+|
+v
+a prefeitura  |||  ainda não pagou ||| os US $ 600 mil referentes a a coleta de lixo en o bairro de a Penha ( zona leste en os meses de janeiro 
+--------------------------------------------------
+Índice sentença 65
+--------------------------------------------------
+A queda  |||  foi ajudada ||| por a retração de 1,69 % 
+A queda  |||  foi ajudada ||| por a retração de 1,69 % en os preços de os produtos de higiene pessoal 
+A queda  |||  foi ajudada ||| por a retração de 1,69 % en os preços de os produtos de higiene pessoal , que acumulam redução de 1,91 % 
+A queda  |||  foi ajudada ||| por a retração de 1,69 % en os preços de os produtos de higiene pessoal , que acumulam redução de 1,91 % en o mês 
+A queda  |||  foi ajudada ||| por a retração en os preços de os produtos de higiene pessoal 
+A queda  |||  foi ajudada ||| por a retração en os preços de os produtos , que acumulam redução de 1,91 % 
+A queda  |||  foi ajudada ||| por a retração en os preços de os produtos , que acumulam redução en o mês 
+os produtos de higiene pessoal  |||  acumulam ||| redução de 1,91 % 
+os produtos de higiene pessoal  |||  acumulam ||| redução de 1,91 % en o mês 
+--------------------------------------------------
+Índice sentença 66
+--------------------------------------------------
+Seatlle  |||  é ||| ( EUA 
+--------------------------------------------------
+Índice sentença 67
+--------------------------------------------------
+Rebeldes islâmicos  |||  fugiram ||| em 1992 de o Tadjiquistão 
+Rebeldes islâmicos  |||  fugiram ||| em 1992 de o Tadjiquistão para o Afeganistão 
+Rebeldes islâmicos  |||  fugiram ||| em 1992 de o Tadjiquistão para o Afeganistão , após derrota para forças 
+Rebeldes islâmicos  |||  fugiram ||| para o Afeganistão 
+Rebeldes islâmicos  |||  fugiram ||| após derrota para forças 
+--------------------------------------------------
+Índice sentença 68
+--------------------------------------------------
+Ciro Gomes  |||  não mudou ||| em nada 
+Ciro Gomes  |||  fique ||| com falsa 
+Ciro Gomes  |||  fique ||| com falsa impressão 
+Ciro Gomes  |||  fique ||| impressão 
+--------------------------------------------------
+Índice sentença 69
+--------------------------------------------------
+nenhum político  |||  gosta ||| de colocar azeitona 
+nenhum político  |||  gosta ||| de colocar azeitona en a empada de seus adversários 
+nenhum político  |||  gosta ||| de colocar en a empada de seus adversários 
+--------------------------------------------------
+Índice sentença 70
+--------------------------------------------------
+O prefeito , segundo colocado  |||  teria ||| de 27 % 
+O prefeito , segundo colocado  |||  teria ||| de 27 % a 30 % de os votos 
+O prefeito , segundo colocado  |||  teria ||| a 30 % de os votos 
+--------------------------------------------------
+Índice sentença 71
+--------------------------------------------------
+--------------------------------------------------
+Índice sentença 72
+--------------------------------------------------
+um resgate de US $ 12 milhões  |||  havia sido pedido ||| en o início de o sequestro 
+--------------------------------------------------
+Índice sentença 73
+--------------------------------------------------
+Esta  |||  é a primeira vez ||| desde 1930 
+os EUA  |||  conseguem ||| avançar além de a fase inicial de um campeonato mundial de futebol 
+Esta  |||  é ||| a primeira vez desde 1930 
+--------------------------------------------------
+Índice sentença 74
+--------------------------------------------------
+A casa de quatro quartos  |||  tem ||| uma imensa infiltração de água 
+A casa de quatro quartos  |||  tem ||| uma imensa infiltração de água en a sala 
+--------------------------------------------------
+Índice sentença 75
+--------------------------------------------------
+as escolas e as pessoas  |||  não podem ficar ||| imunes a a tecnologia 
+Ela  |||  afirma ||| que 
+|
+v
+as escolas e as pessoas  |||  não podem ficar ||| imunes a a tecnologia 
+--------------------------------------------------
+Índice sentença 76
+--------------------------------------------------
+--------------------------------------------------
+Índice sentença 77
+--------------------------------------------------
+os recursos  |||  tenham sido desviados ||| para fins não - sociais 
+O ministro  |||  é ||| Rubens Ricupero 
+O ministro  |||  é ||| ( Fazenda 
+O ministro  |||  negou ||| que 
+|
+v
+os recursos  |||  tenham sido desviados ||| para fins não - sociais 
+Rubens Ricupero  |||  negou ||| que 
+|
+v
+os recursos  |||  tenham sido desviados ||| para fins não - sociais 
+Rubens Ricupero  |||  negou ||| que 
+|
+v
+os recursos  |||  tenham sido desviados ||| para fins não - sociais 
+Rubens Ricupero  |||  negou ||| que 
+|
+v
+os recursos  |||  tenham sido desviados ||| para fins não - sociais 
+Rubens Ricupero  |||  negou ||| que 
+|
+v
+os recursos  |||  tenham sido desviados ||| para fins não - sociais 
+( Fazenda  |||  negou ||| que 
+|
+v
+os recursos  |||  tenham sido desviados ||| para fins não - sociais 
+( Fazenda  |||  negou ||| que 
+|
+v
+os recursos  |||  tenham sido desviados ||| para fins não - sociais 
+( Fazenda  |||  negou ||| que 
+|
+v
+os recursos  |||  tenham sido desviados ||| para fins não - sociais 
+( Fazenda  |||  negou ||| que 
+|
+v
+os recursos  |||  tenham sido desviados ||| para fins não - sociais 
+--------------------------------------------------
+Índice sentença 78
+--------------------------------------------------
+--------------------------------------------------
+Índice sentença 79
+--------------------------------------------------
+nenhum  |||  se forma ||| hoje 
+nenhum  |||  se forma ||| Segundo Guardiano , 31 
+--------------------------------------------------
+Índice sentença 80
+--------------------------------------------------
+a direção de o Corsa  |||  é ||| mais macia em manobras 
+a direção de o Corsa  |||  é ||| mais macia em manobras Com volante de diâmetro grande demais 
+--------------------------------------------------
+Índice sentença 81
+--------------------------------------------------
+o holandês  |||  é ||| Richard Krajicek 
+--------------------------------------------------
+Índice sentença 82
+--------------------------------------------------
+--------------------------------------------------
+Índice sentença 83
+--------------------------------------------------
+Mejía Barón  |||  devolveu ||| a confiança a os mexicanos 
+--------------------------------------------------
+Índice sentença 84
+--------------------------------------------------
+O  |||  é um Jagger ||| entediado com seus shows 
+garotas nuas  |||  são atacadas ||| por os roadies que acompanham os Stones 
+os roadies  |||  acompanham ||| os Stones 
+O  |||  é ||| um Jagger entediado com seus shows 
+--------------------------------------------------
+Índice sentença 85
+--------------------------------------------------
+suas ações  |||  acabem virando ||| pó 
+suas ações  |||  acabem virando ||| pó mesmo em períodos longos 
+suas ações  |||  acabem virando ||| pó por falta de informação 
+suas ações  |||  acabem virando ||| pó em períodos longos 
+--------------------------------------------------
+Índice sentença 86
+--------------------------------------------------
+A temporada  |||  terminou ||| com uma grande repercussão 
+A temporada  |||  terminou ||| com uma grande repercussão e o esporte viveu um novo momento de euforia 
+A temporada  |||  terminou ||| e o esporte viveu um novo momento de euforia 
+o esporte  |||  viveu ||| um novo momento de euforia 
+--------------------------------------------------
+Índice sentença 87
+--------------------------------------------------
+A intervenção  |||  veio ||| como medida saneadora 
+A intervenção  |||  veio ||| como medida saneadora pois permite enfrentar com maior firmeza 
+A intervenção  |||  veio ||| como medida saneadora pois permite enfrentar com maior firmeza um problema solução era repetidamente adiada por motivos políticos 
+A intervenção  |||  veio ||| pois permite enfrentar com maior firmeza 
+A intervenção  |||  veio ||| pois permite enfrentar um problema solução era repetidamente adiada por motivos políticos 
+cuja solução  |||  era repetidamente adiada ||| por motivos políticos 
+--------------------------------------------------
+Índice sentença 88
+--------------------------------------------------
+A primeira final japonesa  |||  aconteceu ||| em 92 
+--------------------------------------------------
+Índice sentença 89
+--------------------------------------------------
+As canções revolucionárias , em línguas africanas  |||  são cantadas ||| durante todo o percurso 
+As canções revolucionárias , em línguas africanas  |||  são cantadas ||| durante todo o percurso e a marcha está mais para dança 
+As canções revolucionárias , em línguas africanas  |||  são cantadas ||| e a marcha está mais para dança 
+a marcha  |||  está ||| mais para dança 
+a marcha  |||  está ||| para dança 
+--------------------------------------------------
+Índice sentença 90
+--------------------------------------------------
+sua candidatura  |||  viabiliza ||| a candidatura de Esperidião Amin 
+sua candidatura  |||  viabiliza ||| a candidatura de Esperidião Amin a a Presidência 
+Medeiros  |||  PRTicipou ||| de a reunião de ontem 
+Medeiros  |||  disse ||| que 
+|
+v
+sua candidatura  |||  viabiliza ||| a candidatura de Esperidião Amin 
+Medeiros  |||  disse ||| que 
+|
+v
+sua candidatura  |||  viabiliza ||| a candidatura de Esperidião Amin a a Presidência 
+--------------------------------------------------
+Índice sentença 91
+--------------------------------------------------
+os FAFs  |||  saem favorecidos ||| Nessa hipótese de variação de a Ufir 
+os FAFs  |||  são tributados ||| em 5 % de o rendimento nominal bruto por o IR , que incide diretamente en a carteira 
+o IR  |||  incide ||| diretamente en a carteira 
+o IR  |||  incide ||| en a carteira 
+--------------------------------------------------
+Índice sentença 92
+--------------------------------------------------
+a equipe  |||  estava ||| em último lugar 
+a equipe  |||  estava ||| em último lugar en o Campeonato Paulista 
+a equipe  |||  estava ||| em último lugar en o Campeonato Paulista e o técnico conseguiu manter o time 
+a equipe  |||  estava ||| em último lugar en o Campeonato Paulista e o técnico conseguiu manter o time en a divisão principal 
+a equipe  |||  estava ||| Em 82 
+a equipe  |||  estava ||| en o Campeonato Paulista 
+a equipe  |||  estava ||| e o técnico conseguiu manter o time 
+a equipe  |||  estava ||| e o técnico conseguiu manter en a divisão principal 
+o técnico  |||  conseguiu ||| manter o time 
+o técnico  |||  conseguiu ||| manter o time en a divisão principal 
+--------------------------------------------------
+Índice sentença 93
+--------------------------------------------------
+A URV  |||  é calculada ||| a PRTir de uma média de índices de inflação 
+--------------------------------------------------
+Índice sentença 94
+--------------------------------------------------
+o cinema de ficção  |||  foi reduzido ||| de quinze filmes 
+o cinema de ficção  |||  foi reduzido ||| de quinze filmes por ano 
+o cinema de ficção  |||  foi reduzido ||| de quinze filmes por ano para dois 
+o cinema de ficção  |||  foi reduzido ||| Por sua vez 
+o cinema de ficção  |||  foi reduzido ||| por ano 
+o cinema de ficção  |||  foi reduzido ||| para dois 
+--------------------------------------------------
+Índice sentença 95
+--------------------------------------------------
+Wright  |||  tem ||| em comum 
+Wright  |||  tem ||| em comum com Sulloway 
+Wright  |||  tem ||| em comum com Sulloway um interesse por a biologia como campo 
+Wright  |||  tem ||| em comum com Sulloway um interesse por a biologia como campo onde os fenômenos psíquicos deveriam se explicar 
+Wright  |||  tem ||| De fato 
+Wright  |||  tem ||| com Sulloway 
+Wright  |||  tem ||| um interesse por a biologia como campo 
+Wright  |||  tem ||| um interesse por a biologia onde os fenômenos psíquicos deveriam se explicar 
+os fenômenos psíquicos  |||  deveriam se explicar ||| onde 
+--------------------------------------------------
+Índice sentença 96
+--------------------------------------------------
+A história  |||  dá ||| conta de a personalidade de o diretor 
+A história  |||  dá ||| conta de a personalidade de o diretor , famoso por sua afabilidade com os atores coadjuvantes e com a equipe 
+A história  |||  dá ||| conta de a personalidade de o diretor , famoso por sua afabilidade com os atores coadjuvantes e com a equipe e por a ferocidade que tratava suas estrelas 
+A história  |||  dá ||| conta de a personalidade de o diretor , famoso por sua afabilidade com os atores coadjuvantes 
+A história  |||  dá ||| conta de a personalidade de o diretor , famoso por sua afabilidade coadjuvantes com a equipe 
+A história  |||  dá ||| conta de a personalidade de o diretor , famoso coadjuvantes com a equipe por a ferocidade que tratava suas estrelas 
+--------------------------------------------------
+Índice sentença 97
+--------------------------------------------------
+O diretor geral de a Assembléia Legislativa  |||  é ||| Abib Miguel 
+O diretor geral de a Assembléia Legislativa  |||  disse ||| 
+|
+v
+três computadores e cinco máquinas de escrever eletrônicas  |||  que foram levados ||| 
+Abib Miguel  |||  disse ||| 
+|
+v
+três computadores e cinco máquinas de escrever eletrônicas  |||  que foram levados ||| 
+Abib Miguel  |||  disse ||| 
+|
+v
+três computadores e cinco máquinas de escrever eletrônicas  |||  que foram levados ||| 
+--------------------------------------------------
+Índice sentença 98
+--------------------------------------------------
+o irmão jesuíta  |||  é ||| Ricardo Marchi 
+--------------------------------------------------
+Índice sentença 99
+--------------------------------------------------
+Os empresários e empregados de o ramo de papel em São Paulo  |||  fundaram ||| por exemplo 
+apenas 10 % de o que a empresa recolhe para o INSS  |||  fundaram ||| por exemplo 
+a empresa  |||  recolhe ||| para o INSS 
+220 leitos  |||  custa ||| em média 
+Os empresários e empregados de o ramo de papel em São Paulo  |||  administram ||| um hospital de 220 leitos que custa , em média 
+--------------------------------------------------
+Índice sentença 100
+--------------------------------------------------
+--------------------------------------------------
